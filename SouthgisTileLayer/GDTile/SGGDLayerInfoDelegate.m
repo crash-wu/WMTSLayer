@@ -74,7 +74,12 @@
                       [[AGSLOD alloc] initWithLevel:17 resolution:1.19432856685505 scale: 4513.988705],
                       [[AGSLOD alloc] initWithLevel:18 resolution:0.597164283559817 scale: 0.597164283559817],
                       [[AGSLOD alloc] initWithLevel:19 resolution:0.298582141647617 scale: 1128.497176],
-                      
+                      [[AGSLOD alloc]initWithLevel:20 resolution:0.14929107082 scale:564.248588],
+                      [[AGSLOD alloc] initWithLevel:21 resolution:0.07464553541 scale: 282.124294],
+                      [[AGSLOD alloc] initWithLevel:22 resolution:0.0373227677 scale: 141.062147],
+                      [[AGSLOD alloc] initWithLevel:23 resolution:0.01866138385 scale: 70.5310735],
+                      [[AGSLOD alloc] initWithLevel:24 resolution:0.00933069192 scale: 35.26553675],
+                      [[AGSLOD alloc] initWithLevel:25 resolution:0.00466534596 scale: 17.632768375],
                       nil ];
 
 
